@@ -1,3 +1,3 @@
 # ghmattimysql
 
-ghmattimysql. Seeing as how the original owner removed it :(
+Fork of ghmattimysql as the original [repository](https://github.com/GHMatti/ghmattimysql/releases) has been removed.
